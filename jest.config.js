@@ -6,4 +6,7 @@ module.exports = {
   // arquivos que o jest executa antes de executar os testes
   setupFilesAfterEnv: ['<rootDir>/src/tests/setupTests.ts'],
   testEnvironment: 'jsdom',
+  moduleNameMapper: {
+    '\\.(scss|css|sass)$': 'identity-obj-proxy',
+  },
 }
