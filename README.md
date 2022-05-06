@@ -1,10 +1,10 @@
 # React News
 
-![Project Cover](./.github/assets/ReactNewsCapa.png)
+<img src="./.github/assets/ReactNewsCapa.svg" style="height: 360px" />
 <br />
-![User with subscription](./.github/assets/sub.gif)
+<img src="./.github/assets/sub.gif" />
 <br />
-![User without a subscription](./.github/assets/notSub.gif)
+<img src="./.github/assets/notSub.gif" />
 
 <br />
 
